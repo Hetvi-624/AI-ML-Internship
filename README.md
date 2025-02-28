@@ -6,7 +6,7 @@ On April 15, 1912, during her maiden voyage, the widely considered “unsinkable
 
 While there was some element of luck involved in surviving, it seems some groups of people were more likely to survive than others.
 
-**Columns:**
+**Columns:** </br>
 **1.PassengerId :** Unique id provide to each passenger </br>
 **2.survived :**	Passenger survived or not	0 = No, 1 = Yes </br>
 **3.pclass :** 	Ticket class	1 = 1st(Upper), 2 = 2nd(Middle), 3 = 3rd(Lower) </br>

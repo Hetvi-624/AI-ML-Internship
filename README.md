@@ -1,3 +1,4 @@
+# Titanic dataset EDA
 Overview:
 The training set should be used to build your machine learning models. For the training set, we provide the outcome (also known as the “ground truth”) for each passenger. Your model will be based on “features” like passengers’ gender and class.
 

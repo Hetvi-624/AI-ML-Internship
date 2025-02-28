@@ -1,6 +1,10 @@
 # Titanic dataset EDA
-Overview:
-The training set should be used to build your machine learning models. For the training set, we provide the outcome (also known as the “ground truth”) for each passenger. Your model will be based on “features” like passengers’ gender and class.
+The Challenge:
+The sinking of the Titanic is one of the most infamous shipwrecks in history.
+
+On April 15, 1912, during her maiden voyage, the widely considered “unsinkable” RMS Titanic sank after colliding with an iceberg. Unfortunately, there weren’t enough lifeboats for everyone onboard, resulting in the death of 1502 out of 2224 passengers and crew.
+
+While there was some element of luck involved in surviving, it seems some groups of people were more likely to survive than others.
 
 Columns:
 1.PassengerId : Unique id provide to each passenger

@@ -1,3 +1,4 @@
+
 # Titanic dataset EDA 
 
 The sinking of the Titanic is one of the most infamous shipwrecks in history.
@@ -19,3 +20,4 @@ While there was some element of luck involved in surviving, it seems some groups
 **10.fare	:** Passenger fare	 </br>
 **11.cabin	:** Cabin number	 </br>
 **12.embarked	:** Port of Embarkation	C = Cherbourg, Q = Queenstown, S = Southampton </br>
+
